@@ -1,0 +1,8 @@
+("This site ['10.0.0.1'] seems do not exist delette it and reestart the program                   the name error is ", <class 'requests.exceptions.ConnectionError'>)
+200 http://192.168.1.1/text/htmlISO-8859-1<bound method Response.json of <Response [200]>>
+503 ['www.amazon.com'] http://www.amazon.com/ text/htmlISO-8859-1 <bound method Response.json of <Response [503]>>
+200 http://www.google.com/text/html; charset=ISO-8859-1ISO-8859-1<bound method Response.json of <Response [200]>>
+("This site ['10.0.0.1'] seems do not exist delette it and reestart the program                   the name error is ", <class 'requests.exceptions.ConnectTimeout'>)
+200 http://192.168.1.1/text/htmlISO-8859-1<bound method Response.json of <Response [200]>>
+503 ['www.amazon.com'] http://www.amazon.com/ text/htmlISO-8859-1 <bound method Response.json of <Response [503]>>
+200 http://www.google.com/text/html; charset=ISO-8859-1ISO-8859-1<bound method Response.json of <Response [200]>>
